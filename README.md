@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Joseph Wang  
-**Aspiring Computer Scientist | Machine Learning & Data Science | AI Projects & Kaggle Competitions**
+**Aspiring Computer Scientist **
 
 Welcome to my GitHub! I'm a computer science student at Mt. San Antonio College planning to transfer into a UC computer science program.  
 I build machine learning projects, data pipelines, and automation tools that connect real-world problems with practical solutions.
