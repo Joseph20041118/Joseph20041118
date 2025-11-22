@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Joseph Wang  
+# 👋 Hi, I'm Joseph Wang  Also known as: Yu Chiao Wang
+
 **Aspiring Computer Scientist **
 
 Welcome to my GitHub! I'm a computer science student at Mt. San Antonio College planning to transfer into a UC computer science program.  
