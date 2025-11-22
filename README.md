@@ -58,8 +58,11 @@ Relevant coursework:
 CSCI 110, 140, 145, 190, 240 • Calculus I & II • Linear Algebra
 
 Additional certificates:  
-- **HarvardX – CS50x: Introduction to Computer Science**  
+- **HarvardX – CS50x: Introduction to Computer Science**
+- <img width="2200" height="1700" alt="cs50x_certificate" src="https://github.com/user-attachments/assets/ebd16343-f94f-4631-9f18-157298843e6a" />
+
 - **Codefinity – Python Programming Certificate**
+<img width="775" height="560" alt="8bf1736f-f5c6-4d4f-af77-15e1d9300e7f_python_from_zero_to_hero_certificate" src="https://github.com/user-attachments/assets/3869afb7-ae99-4ffa-99b0-06dd54aadfd0" />
 
 ---
 
