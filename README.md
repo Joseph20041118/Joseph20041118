@@ -2,8 +2,6 @@
 
 Also known as: Yu Chiao Wang
 
-**Aspiring Computer Scientist **
-
 Welcome to my GitHub! I'm a computer science student at Mt. San Antonio College planning to transfer into a UC computer science program.  
 I build machine learning projects, data pipelines, and automation tools that connect real-world problems with practical solutions.
 
